@@ -1,0 +1,19 @@
+
+/* Inicio Estilo sección equipo */
+.team-section {
+    display: flex;
+    }
+
+.team-info{
+    padding: 10px;
+    text-align:center;
+    }
+
+.team-info__imagen{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 300px;
+    width: auto;
+}
+/* Fin Estilo sección equipo*/
